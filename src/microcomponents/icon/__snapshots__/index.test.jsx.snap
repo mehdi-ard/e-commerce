@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders default 1`] = `
+<span
+  aria-hidden={true}
+  className="material-icons MuiIcon-root Icon-icon-1  MuiIcon-colorPrimary"
+>
+  add_circle
+</span>
+`;

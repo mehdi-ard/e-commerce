@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders default 1`] = `
+<span
+  className="MuiBadge-root Badge-margin-1"
+>
+  default
+  <span
+    className="MuiBadge-badge"
+  >
+    12
+  </span>
+</span>
+`;
